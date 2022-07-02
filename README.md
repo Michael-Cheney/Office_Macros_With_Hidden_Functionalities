@@ -1,8 +1,8 @@
-# Office_Macros_With_Hidden_Functionalities
+# Office Macros With Hidden Functionalities
 ## Summary
 Inspired by the recent Offensive Security post https://www.offensive-security.com/offsec/macro-weaponization/ I thought it would be beneficial to make some minor modifications to this so that it could be updated from the command line using PowerShell. The ultimate goal was to be able to quickly edit a word document and modify payloads from the command line. Although creating the document is still a manual procedure, changing the payload can be made easier by using PowerShell. 
 
-## Create Document Template
+## 1. Create Document Template
 1. Create a new word document. 
 ![Create New Document](images/1.png)
 
@@ -50,7 +50,7 @@ End Sub
 9. Save the document, for this example I have saved it to `C:\temp\cmd_exec.docm`. 
 ![Create Macro](images/12.png)
 
-## PowerShell
+## 2. Modify the payload with PowerShell
 
 ```powershell
 # Initiate Word
