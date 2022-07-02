@@ -9,7 +9,7 @@ Inspired by the recent Offensive Security post https://www.offensive-security.co
 2. Select `View`, `Macros`, `View Macros`.
 ![View Macros](images/2.png)
 
-3. Enter a name for the macro in the `Macro name:` field and select `Create`. Ensure that the `Macros in:` field is set to be the current document (Document1) likely if the document is new and hasn't yet been saved. 
+3. Enter a name for the macro in the `Macro name:` field. Ensure that the `Macros in:` field is set to be the current document (Document1) likely if the document is new and hasn't yet been saved. Select `Create`. 
 ![Create Macro](images/3.png)
 
 4. If prompted to save the document somewhere, In this example I will use the location `C:\temp\cmd_exec.docx`. Also set the `Save as type:` field to be `Word Macro-Enabled Document (*.docm)`. 
