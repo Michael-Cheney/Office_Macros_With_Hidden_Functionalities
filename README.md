@@ -28,7 +28,7 @@ Sub chapel()
 End Sub
 ```
 
-5. If prompted to save the document somewhere, In this example I will use the location `C:\temp\cmd_exec.docx`. Also set the `Save as type:` field to be `Word Macro-Enabled Document (*.docm)`. 
+5. When prompted to save the document, Set the location (In this example I will use the location `C:\temp\cmd_exec.docx`). Also set the `Save as type:` field to be `Word Macro-Enabled Document (*.docm)`. 
 ![Create Macro](images/10.png)
 
 6. Click the `X` to close the Macro dialog box. 
@@ -49,6 +49,7 @@ End Sub
 
 9. Save the document, for this example I have saved it to `C:\temp\cmd_exec.docm`. 
 ![Create Macro](images/12.png)
+
 
 ## 2. Modify the payload with PowerShell
 
