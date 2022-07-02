@@ -38,5 +38,5 @@ End Sub
 7. In the `name` field enter `argument`, in the `value` field enter `/c whoami` then click `Add`
 ![Create Macro](images/8.png)
 
-8. Click OK to close the `Properties` dialog box. 
+8. Once both values have been added, Click OK to close the `Properties` dialog box. 
 ![Create Macro](images/9.png)
