@@ -9,6 +9,7 @@
 ![Create Macro](images/3.png)
 
 4. Copy & Paste the code below into the codebox and click on the `Save` icon.
+![Create Macro](images/3.png)
 ```vb
 Sub AutoOpen()
     chapel
@@ -22,4 +23,4 @@ Sub chapel()
     Call Shell("""" & strProgramName & """ """ & strArgument & """", vbHideFocus)
 End Sub
 ```
-![Create Macro](images/3.png)
+
