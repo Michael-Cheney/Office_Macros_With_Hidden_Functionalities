@@ -6,5 +6,4 @@
 ![View Macros](images/2.png)
 
 3. Enter a name for the macro in the `Macro name:` field and select `create`. 
-
 ![Create Macro](images/3.png)
